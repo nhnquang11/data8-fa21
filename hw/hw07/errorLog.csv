@@ -1,0 +1,5 @@
+NameError,name 'null_dist' is not defined
+IndexError,index 1 is out of bounds for axis 0 with size 1
+SyntaxError,"invalid syntax (2442984331.py, line 4)"
+NameError,name 'plots' is not defined
+NameError,name 'simulatelated_statistics_ab' is not defined

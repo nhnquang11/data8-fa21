@@ -1,0 +1,6 @@
+AttributeError,'numpy.ndarray' object has no attribute 'apply'
+AttributeError,'numpy.ndarray' object has no attribute 'apply'
+TypeError,'int' object is not iterable
+NameError,name 'full_stats' is not defined
+ValueError,"The column ""Age"" is not in the table. The table contains these columns: PlayerName, Salary"
+ValueError,"The column ""Age"" is not in the table. The table contains these columns: PlayerName, Salary"

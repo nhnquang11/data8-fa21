@@ -1,0 +1,7 @@
+IndexError,tuple index out of range
+IndexError,tuple index out of range
+SyntaxError,"cannot assign to function call (1618448274.py, line 5)"
+ValueError,"The column ""star baker awards mean"" is not in the table. The table contains these columns: won, star baker awards average"
+ValueError,"label ""labels shuffled"" not in labels ('star baker awards', 'won')"
+SyntaxError,"leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers (3032869581.py, line 1)"
+NameError,name 'mean' is not defined

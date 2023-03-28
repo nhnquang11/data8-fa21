@@ -1,0 +1,8 @@
+NameError,name 'n' is not defined
+TypeError,'list' object cannot be interpreted as an integer
+TypeError,only integer scalar arrays can be converted to a scalar index
+SyntaxError,"invalid syntax (576439620.py, line 2)"
+TypeError,with_column() missing 2 required positional arguments: 'label' and 'values'
+AttributeError,'numpy.ndarray' object has no attribute 'show'
+ValueError,"pvals < 0, pvals > 1 or pvals contains NaNs"
+TypeError,only size-1 arrays can be converted to Python scalars

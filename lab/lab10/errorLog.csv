@@ -1,0 +1,4 @@
+0,TypeError,values requires collect to be specified,0,,2022-08-24 17:42:07.355685
+1,TypeError,values requires collect to be specified,0,,2022-08-24 17:42:26.172786
+2,TypeError,collect requires values to be specified,0,,2022-08-24 17:42:35.728009
+3,NameError,name 'cacner' is not defined,0,,2022-08-24 17:47:30.967115

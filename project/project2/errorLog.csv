@@ -1,0 +1,13 @@
+TypeError,group() missing 1 required positional argument: 'column_or_label'
+ValueError,"The column ""Age"" is not in the table. The table contains these columns: Year, Cause, Age Adjusted Death Rate"
+TypeError,values requires collect to be specified
+ValueError,"The column ""Age"" is not in the table. The table contains these columns: Year, Cause, Age Adjusted Death Rate"
+AttributeError,'numpy.ndarray' object has no attribute 'num_rows'
+ValueError,"The column ""Causes"" is not in the table. The table contains these columns: Year, Cause, Age Adjusted Death Rate"
+SyntaxError,"invalid syntax (726333270.py, line 5)"
+NameError,name 'first' is not defined
+AttributeError,'int' object has no attribute 'show'
+ValueError,"The column ""Causes"" is not in the table. The table contains these columns: Year, Cause, Age Adjusted Death Rate"
+ValueError,Column length mismatch. New column does not have the same number of rows as table.
+TypeError,simulate_death_null() missing 1 required positional argument: 'tbl'
+IndexError,index 1 is out of bounds for axis 0 with size 1
